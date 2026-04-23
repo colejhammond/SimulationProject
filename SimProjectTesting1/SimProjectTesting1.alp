@@ -186,7 +186,7 @@
 					<Width>90</Width>
 					<Height>270</Height>
 					<Rotation>0.0</Rotation>
-					<FillColor>-16744320</FillColor>
+					<FillColor>-1</FillColor>
 					<FillMaterial>null</FillMaterial>
 				</Rectangle>
 				<Rectangle>
